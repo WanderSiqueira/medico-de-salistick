@@ -25,7 +25,7 @@
   "download": "https://github.com/WanderSiqueira/medico-de-salistick/archive/master.zip",
   "id": "medico-de-salistick",
   "compatibility": {
-    "minimum": "0.8.8",
-    "verified": "0.8.8"
+    "minimum": "10.291",
+    "verified": "10.291"
   }
 }
