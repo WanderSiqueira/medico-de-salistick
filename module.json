@@ -14,7 +14,7 @@
       "name": "medico-de-salistick",
       "label": "Médico de Salistick",
       "system": "tormenta20",
-      "path": "packs/medico-de-salistick.db",
+      "path": "packs/medico-de-salistick",
       "type": "Item",
       "private": false,
       "flags": {}
